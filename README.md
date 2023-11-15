@@ -5,8 +5,11 @@ I am Sarthak, an aspiring data scientist with a passion for machine learning and
 My Skills and Expertise
 
 Coding: Proficient in Python and SQL, with a solid understanding of programming concepts and algorithms.
+
 Machine Learning: Expertise in various machine learning techniques, including supervised and unsupervised learning and statistical modeling.
+
 Project Management: Proven ability to plan, execute, and deliver machine learning projects from ideation to implementation.
+
 My Projects and Accomplishments
 
 My portfolio showcases a variety of machine learning projects that demonstrate my ability to apply theoretical concepts to real-world problems. These projects span various domains, including image recognition, binary and multilabel classification, and predictive analytics.
